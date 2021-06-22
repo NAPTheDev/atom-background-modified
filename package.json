@@ -1,0 +1,35 @@
+{
+  "name": "atom-background-modified",
+  "displayName": "Atom Background Modified",
+  "description": "Atom One Dark Theme with the background modified better for eye",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "NAPTheDevHcj",
+  "keywords": [
+    "atom",
+    "dark theme",
+    "background",
+    "modify",
+    "modified",
+    "NAPTheDevHcj",
+    "NAP The Dev Hcj"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoobAndPoor/atom-background-modified.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atom Background Modified",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atom Background Modified-color-theme.json"
+      }
+    ]
+  }
+}
