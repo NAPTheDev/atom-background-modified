@@ -75,7 +75,8 @@
     "peekViewResult.background": "#252526",
     "peekViewResult.selectionBackground": "#37373D",
     "peekViewTitle.background": "#1B1D23",
-    "peekViewEditor.background": "#1B1D23"
+    "peekViewEditor.background": "#1B1D23",
+    "editor.snippetTabstopHighlightBackground": "#2d2d2d"
   },
   "tokenColors": [
     {
