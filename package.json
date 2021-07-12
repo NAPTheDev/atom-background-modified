@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/NoobAndPoor/atom-background-modified.git"
+    "url": "https://github.com/NAPTheDev/atom-background-modified.git"
   },
   "contributes": {
     "themes": [
