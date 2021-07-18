@@ -82,7 +82,7 @@
     {
       "name": "Comment",
       "scope": ["comment"],
-      "settings": { "foreground": "#5C6370", "fontStyle": "italic" }
+      "settings": { "foreground": "#5C6370" }
     },
     {
       "name": "Comment Markup Link",
