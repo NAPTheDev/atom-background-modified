@@ -266,7 +266,7 @@
     },
     {
       "name": "Entity Name Function",
-      "scope": ["entity.name.function"],
+      "scope": ["entity.name.function", "meta.function-call"],
       "settings": { "foreground": "#61AFEF" }
     },
     {
