@@ -35,11 +35,6 @@
         "label": "Atom Background Modified Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/Atom Background Modified Italic-color-theme.json"
-      },
-      {
-        "label": "Atom Background Modified CSS Change",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atom Background Modified CSS Change-color-theme.json"
       }
     ]
   }

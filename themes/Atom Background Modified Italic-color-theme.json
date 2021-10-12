@@ -1136,7 +1136,7 @@
     },
     {
       "name": "Italic for keywords",
-      "scope": ["comment", "constant", "storage.modifier", "storage.type.class.js", "keyword", "storage.type.function.js", "storage.type.js", "entity.other.attribute-name", "entity.name.tag.css"],
+      "scope": ["comment", "constant", "storage.modifier", "storage.type.class", "keyword", "storage.type.function", "storage.type", "entity.other.attribute-name", "entity.name.tag.css"],
       "settings": {
         "fontStyle": "italic"
       }
