@@ -2,7 +2,7 @@
   "name": "atom-background-modified",
   "displayName": "Atom Background Modified",
   "description": "Atom One Dark Theme with the background modified better for eye",
-  "version": "0.4.1",
+  "version": "0.4.4",
   "engines": {
     "vscode": "^1.57.0"
   },
